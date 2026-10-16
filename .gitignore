@@ -1,0 +1,11 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+.env.*
+main.tex
+report/
+*.zip
+RecA.txt
+RecB.txt
